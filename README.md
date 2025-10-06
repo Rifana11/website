@@ -428,7 +428,7 @@ contact.html
         </main>
 
     <footer>
-        <p>&copy; 2025 My Restaurant. | Designed and Developed by [Your Name]</p>
+        <p>&copy; 2025 My Restaurant. | Designed and Developed by [RIFANA BARVEEN.M]</p>
     </footer>
 </body>
 </html>
