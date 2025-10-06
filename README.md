@@ -211,9 +211,7 @@ home.html
             </section>
     </main>
 
-    <footer>
-        <p>&copy; 2025 My Restaurant. | Designed and Developed by [RIFANA BARVEEN]</p>
-    </footer>
+    
 </body>
 </html>
 
@@ -306,9 +304,6 @@ menu.html
         </section>
     </main>
 
-    <footer>
-        <p>&copy; 2025 My Restaurant. | Designed and Developed by [Your Name]</p>
-    </footer>
 </body>
 </html>
 
@@ -379,9 +374,7 @@ administration.html
         </section>
     </main>
 
-    <footer>
-        <p>&copy; 2025 My Restaurant. | Designed and Developed by [Your Name]</p>
-    </footer>
+   
 </body>
 </html>
 
@@ -427,21 +420,16 @@ contact.html
         
         </main>
 
-    <footer>
-        <p>&copy; 2025 My Restaurant. | Designed and Developed by [RIFANA BARVEEN.M]</p>
-    </footer>
+    
 </body>
 </html>
 ```
 # OUTPUT:
 
-![alt text](<Screenshot 2025-10-04 213445.png>)
-
-![alt text](<Screenshot 2025-10-04 213540.png>)
-![alt text](<Screenshot 2025-10-04 213659.png>)
-![alt text](<Screenshot 2025-10-04 213625.png>)
-
-
+<img width="1788" height="793" alt="Screenshot 2025-10-06 101409" src="https://github.com/user-attachments/assets/08872d98-9f72-4ea3-9357-36f278a0e4d5" />
+<img width="1869" height="835" alt="Screenshot 2025-10-06 101428" src="https://github.com/user-attachments/assets/81d6364f-c74b-4472-8dfc-85fceed1f5e9" />
+<img width="1866" height="885" alt="Screenshot 2025-10-06 101512" src="https://github.com/user-attachments/assets/e0e99ea2-a6f5-4d2f-ab7f-fa9e119a14c7" />
+<img width="1896" height="795" alt="Screenshot 2025-10-06 101242" src="https://github.com/user-attachments/assets/132a96d0-2eb1-4cf4-9274-3b4fa5b16d04" />
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
